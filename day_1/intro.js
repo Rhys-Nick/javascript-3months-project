@@ -1,0 +1,1 @@
+console.log("Welcome from 3 months project!") // im also an beginner when i was writing this project. So keep going. 
